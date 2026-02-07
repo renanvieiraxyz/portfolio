@@ -42,3 +42,5 @@ O layout foi pensado para transmitir profissionalismo, clareza de informação e
 
 ## 📂 Estrutura de arquivos
 
+🔗 Acesse o site online: https://renanvieiraxyz.github.io/portfolio/
+
